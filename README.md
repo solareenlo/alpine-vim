@@ -1,4 +1,4 @@
-# alpine-vim
+# docker-alpine-vim
 Alpine Linuxでvimを動かす環境.
 
 ## Reference
